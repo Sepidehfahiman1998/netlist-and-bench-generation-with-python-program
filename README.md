@@ -4,4 +4,4 @@ developed by Sepideh Fahiman , bachelor student of Computer engineering at Unive
 
 under the supervision of professor Zainalabedin Navabi Shirazi                     
                                                                                                       
-special thanks to Mohammad.r Roshanshah , PHD student of Electrical engineering at University of Tehran
+special thanks to Mohammad rasoul Roshanshah , PHD student of Electrical engineering at University of Tehran
