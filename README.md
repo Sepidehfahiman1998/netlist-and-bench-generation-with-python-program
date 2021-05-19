@@ -1,2 +1,1 @@
-# netlist-and-bench-generation-with-python-program]
-ooooooooooooooooooooooooooooooooooooooooooooo
+# netlist-and-bench-generation-with-python-program
