@@ -1,1 +1,1 @@
-# netlist-and-bench-generation-with-python-program-use-yosys
+# netlist-and-bench-generation from yosys output -with-python-program
