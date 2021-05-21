@@ -41,3 +41,8 @@ abc -liberty mycells.lib
 ### #write synthesized design
 
 write_verilog -noattr XXXX.v
+
+
+*********************************************************************************************************************************
+
+Then you can give the yosys output file to our program to generate a netlist and a bench .
