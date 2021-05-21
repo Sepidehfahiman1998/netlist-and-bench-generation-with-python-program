@@ -55,7 +55,8 @@ Then you can give the yosys output file to our program to generate a netlist and
 module shift_reg  #(parameter MSB=16) (  input d, input clk, input en, input dir, input rstn, output reg [MSB-1:0] out);                
 
    always @ (posedge clk)
-      if (!rstn)
+       
+       if (!rstn)
          out <= 0;
       else begin
          if (en)
