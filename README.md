@@ -18,7 +18,7 @@ To know "yosys" and download it, refer to the following address:
 
 It is recommended to use the following commands to generate output from yosys:
 
-#read design
+## read design
 
 read_verilog XXXX.v
 
