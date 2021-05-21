@@ -48,7 +48,7 @@ Then you can give the yosys output file to our program to generate a netlist and
 
 ## important points
 
-Test each step , The file and its test and its synthesized output from YUSIS and related libraries must be the same as the final output of the netlist from our program and the component library in Madelsim.
+Test each step , The file and its test and its synthesized output from yosys and related libraries must be the same as the final output of the netlist from our program and the component library in Modelsim.
 
 *********************************************************************************************************************************
 ## example : ### shift register module
