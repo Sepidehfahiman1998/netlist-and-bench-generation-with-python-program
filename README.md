@@ -49,6 +49,8 @@ Then you can give the yosys output file to our program to generate a netlist and
 *********************************************************************************************************************************
 # example : shift register module
 
+## shift register verilog code
+
+![sh](https://user-images.githubusercontent.com/71797162/119122798-28347100-ba44-11eb-8358-9fc8a787c674.PNG)
 
 
-![sh](https://user-images.githubusercontent.com/71797162/119122587-e7d4f300-ba43-11eb-8697-a6c4a0a8c286.PNG)
