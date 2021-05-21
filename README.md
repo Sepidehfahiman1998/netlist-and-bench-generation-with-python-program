@@ -32,7 +32,6 @@ synth -auto-top
 
 flatten
 
-
 ### #mapping to mycells.lib
 
 dfflibmap -liberty mycells.lib
@@ -49,3 +48,7 @@ Then you can give the yosys output file to our program to generate a netlist and
 
 *********************************************************************************************************************************
 # example : shift register module
+
+
+
+![sh](https://user-images.githubusercontent.com/71797162/119122587-e7d4f300-ba43-11eb-8697-a6c4a0a8c286.PNG)
