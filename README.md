@@ -15,3 +15,6 @@ special thanks to Mohammad rasoul Roshanshah , PHD student of Electrical enginee
 To know "yosys" and download it, refer to the following address:
 
 <http://www.clifford.at/yosys/documentation.html>
+
+It is recommended to use the following commands to generate output from yosys:
+
