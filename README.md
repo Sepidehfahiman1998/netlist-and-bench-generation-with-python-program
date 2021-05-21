@@ -46,13 +46,13 @@ Then you can give the yosys output file to our program to generate a netlist and
 *********************************************************************************************************************************
 
 
-# important points
+## important points
 
 
 *********************************************************************************************************************************
-# example : shift register module
+## example : ### shift register module
 
-## shift register verilog code
+### shift register verilog code
 
 ![sh](https://user-images.githubusercontent.com/71797162/119122798-28347100-ba44-11eb-8358-9fc8a787c674.PNG)
 
