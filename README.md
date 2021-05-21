@@ -52,13 +52,7 @@ Then you can give the yosys output file to our program to generate a netlist and
 
 ## verilog code
 
-module shift_reg  #(parameter MSB=16) (  input d,                      // Declare input for data to the first flop in the shift register
-                                        input clk,                    // Declare input for clock to all flops in the shift register
-                                        input en,                     // Declare input for enable to switch the shift register on/off
-                                        input dir,                    // Declare input to shift in either left or right direction
-                                        input rstn,                   // Declare input to reset the register to a default value
-                                        output reg [MSB-1:0] out);    // Declare output to read out the current value of all flops in this register
-
+module shift_reg  #(parameter MSB=16) (  input d, input clk, input en, input dir, input rstn, output reg [MSB-1:0] out);                
 
    always @ (posedge clk)
       if (!rstn)
