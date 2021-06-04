@@ -1,3 +1,4 @@
+![post synth](https://user-images.githubusercontent.com/71797162/120828525-dfb3a200-c571-11eb-902d-4b8c35c3ba15.PNG)
 # netlist and bench generation from yosys output with python program
  
  
@@ -58,9 +59,10 @@ Test each step , The file and its test and its synthesized output from yosys and
 ![sh](https://user-images.githubusercontent.com/71797162/119122798-28347100-ba44-11eb-8358-9fc8a787c674.PNG)
 
 
-### Pre synthesis simulation of shift_reg
+### Pre synthesis simulation of shift_reg (use shift_reg.v , shift_reg_tb.v)
 ![before synth](https://user-images.githubusercontent.com/71797162/120824326-97928080-c56d-11eb-8c60-dea44b6167e9.PNG)
 
 
-### Post synthesis simulation of shift_reg
+### Post synthesis simulation of shift_reg(use shift_reg_synth.v , shift_reg_tb.v , mycells.v (The library defined in yosys))
+![post synth](https://user-images.githubusercontent.com/71797162/120828554-e7734680-c571-11eb-97b2-e2cec46e6f67.PNG)
 
