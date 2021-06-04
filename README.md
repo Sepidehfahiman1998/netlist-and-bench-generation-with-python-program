@@ -1,4 +1,4 @@
-![post synth](https://user-images.githubusercontent.com/71797162/120828525-dfb3a200-c571-11eb-902d-4b8c35c3ba15.PNG)
+
 # netlist and bench generation from yosys output with python program
  
  
