@@ -59,16 +59,25 @@ Test each step , The file and its test and its synthesized output from yosys and
 ![sh](https://user-images.githubusercontent.com/71797162/119122798-28347100-ba44-11eb-8358-9fc8a787c674.PNG)
 
 
+
+
 ### Pre synthesis simulation of shift_reg (use shift_reg.v,shift_reg_tb.v).
 ![before synth](https://user-images.githubusercontent.com/71797162/120824326-97928080-c56d-11eb-8c60-dea44b6167e9.PNG)
+
+
 
 
 ### Post synthesis simulation of shift_reg(use shift_reg_synth.v,shift_reg_tb.v,mycells.v (The library defined in yosys)).
 ![post synth](https://user-images.githubusercontent.com/71797162/120828554-e7734680-c571-11eb-97b2-e2cec46e6f67.PNG)
 
 
+
+
 ### We can now produce a new version of the synthesized file(netlist) based on component_library . 
 ![g](https://user-images.githubusercontent.com/71797162/120832638-20151f00-c576-11eb-9d7f-d1899735d187.PNG)
+
+
+
 
 ### Let's verify netlist.v, for this purpose we have to do the simulation again using netlist.v and component_library.v and shift_reg_tb.v.
 ![jj](https://user-images.githubusercontent.com/71797162/120834617-826f1f00-c578-11eb-8645-154ad9c8426a.PNG)
