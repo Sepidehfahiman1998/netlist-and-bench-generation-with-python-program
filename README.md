@@ -74,11 +74,18 @@ Test each step , The file and its test and its synthesized output from yosys and
 
 
 ### We can now produce a new version of the synthesized file(netlist) based on component_library . 
+
+
 ![g](https://user-images.githubusercontent.com/71797162/120832638-20151f00-c576-11eb-9d7f-d1899735d187.PNG)
 
 
 
 
 ### Let's verify netlist.v, for this purpose we have to do the simulation again using netlist.v and component_library.v and shift_reg_tb.v.
+
+
 ![jj](https://user-images.githubusercontent.com/71797162/120834617-826f1f00-c578-11eb-8645-154ad9c8426a.PNG)
 
+
+
+## As you can see, the output of the net list is exactly the same as the previous two.
