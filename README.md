@@ -59,4 +59,8 @@ Test each step , The file and its test and its synthesized output from yosys and
 
 
 ### Pre synthesis simulation of shift_reg
-![before synth](https://user-images.githubusercontent.com/71797162/120824055-4e423100-c56d-11eb-9145-a342fea40d90.PNG)
+![before synth](https://user-images.githubusercontent.com/71797162/120824326-97928080-c56d-11eb-8c60-dea44b6167e9.PNG)
+
+
+### Post synthesis simulation of shift_reg
+
