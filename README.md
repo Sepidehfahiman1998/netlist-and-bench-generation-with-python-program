@@ -88,4 +88,10 @@ Test each step , The file and its test and its synthesized output from yosys and
 
 
 
-## As you can see, the output of the net list is exactly the same as the previous two.
+### As you can see, the output of the net list is exactly the same as the previous two.
+### You can also generate a benchfile:
+![nn](https://user-images.githubusercontent.com/71797162/120835695-e80fdb00-c579-11eb-9b25-27cd236e8c09.PNG)
+
+![Capture](https://user-images.githubusercontent.com/71797162/120835924-38873880-c57a-11eb-920f-054b77288054.PNG)
+
+
