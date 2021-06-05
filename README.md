@@ -1,6 +1,8 @@
 
 # netlist and bench generation from yosys output with python program
  
+ ## Acknowledgments:
+ 
  developed by Sepideh Fahiman, bachelor student of Computer engineering at the University of Tehran,
  
 under the supervision of professor Zainalabedin Navabi Shirazi.
